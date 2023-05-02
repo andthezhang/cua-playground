@@ -52,7 +52,7 @@ export function HomeScreen() {
             mt="$2"
           />
           <H1 ta="center" mt="$2">
-            项目课第二节
+            项目课第二节!!
           </H1>
         </XStack>
         <Paragraph ta="center">
